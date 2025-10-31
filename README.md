@@ -1,2 +1,2 @@
 # luanti_server
-Simple test for a Luanti Server
+Simple test for a Luanti Server with github actions
